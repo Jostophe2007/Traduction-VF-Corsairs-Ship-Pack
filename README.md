@@ -38,5 +38,5 @@ Le détail se trouve dans FR_Traduction\LISEZMOI.md.
 ![Capture d'écran](./main/Screen.png)
 
 <p align="center">
-  <img src="./screen.png" alt="Capture d'écran" width="700">
+  <img src="./Screen.png" alt="Capture d'écran" width="700">
 </p>
