@@ -40,3 +40,16 @@ Le détail se trouve dans FR_Traduction\LISEZMOI.md.
 <p align="center">
   <img src="./Screen.png" alt="Capture d'écran" width="700">
 </p>
+
+![Capture d'écran](./main/Screen2.png)
+
+<p align="center">
+  <img src="./Screen2.png" alt="Capture d'écran" width="700">
+</p>
+
+![Capture d'écran](./main/Screen3.png)
+
+<p align="center">
+  <img src="./Screen3.png" alt="Capture d'écran" width="700">
+</p>
+
