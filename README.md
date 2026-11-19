@@ -32,7 +32,7 @@ française. Le dossier FR_Traduction peut ensuite être supprimé.
 
 APRÈS UNE MISE À JOUR DU JEU
 FR_Traduction\Regenerer_FR.bat reconstruit la version française à partir des nouveaux
-fichiers anglais (Python 3 nécessaire). Les phrases nouvelles restent en anglais.
+fichiers anglais **(Python 3 nécessaire)**. Les phrases nouvelles restent en anglais.
 Le détail se trouve dans FR_Traduction\LISEZMOI.md.
 
 ![Capture d'écran](./main/Screen.png)
